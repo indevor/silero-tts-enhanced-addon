@@ -16,4 +16,4 @@ Local, fast, and high-quality Text-to-Speech engine for Home Assistant, based on
 5. Click **Install**, then **Start**.
 
 ## Integration
-To use this Add-on seamlessly in Home Assistant (with UI configuration), install the companion [HACS Integration](ССЫЛКА_НА_РЕПОЗИТОРИЙ_2).
+To use this Add-on seamlessly in Home Assistant (with UI configuration), install the companion [Silero-tts-enhanced](https://github.com/indevor/silero-tts-enhanced-hacs).
