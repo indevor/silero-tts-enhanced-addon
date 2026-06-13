@@ -1,6 +1,6 @@
 {
   "name": "Silero TTS Enhanced Engine",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "slug": "silero_tts_engine",
   "description": "Локальный синтез речи с улучшенной обработкой текста.",
   "arch": ["amd64", "aarch64"],
